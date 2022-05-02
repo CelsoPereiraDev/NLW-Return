@@ -1,0 +1,27 @@
+:root {
+    --font-family-regular: 'DM Sans';
+
+    --font-weight-regular: 400;
+    --font-weight-bold:700;
+
+    --primary-color-0:#FFFAF1;
+    --primary-color-1:#F7F9F9;
+    --primary-color-2:#DCE9E2;
+    --primary-color-3:#00856F;
+    --primary-color-4:#00453A;
+
+    --secondary-color-0: #3E3E3E;
+    --secondary-color-1: #384633;
+    --secondary-color-2: #061800;
+
+    --font-size-ss: 0.875rem; /*14px*/
+    --font-size-s: 1rem; /*16px*/
+    --font-size-sm: 1.125rem; /*18px*/
+    --font-size-m: 1.5rem; /*24px*/
+    --font-size-ml: 1.875rem; /*30px*/
+    --font-size-l: 2.125rem; /*34px*/
+    --font-size-xl: 2.5rem; /*40px*/
+    --font-size-xxl: 3rem; /*48px*/
+    --font-size-xxxl: 3.25rem; /*52px*/
+}
+
